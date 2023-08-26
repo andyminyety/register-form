@@ -13,6 +13,6 @@ Click on the link to see the **[Register Form](https://andyminyety.github.io/reg
 # Functionalities
 
 - [x] Responsive Design
-- [x] Attractive and Minimalistic Design
+- [x] Minimalistic Design
 - [x] Frontend Validation
 - [x] Backend Validation
